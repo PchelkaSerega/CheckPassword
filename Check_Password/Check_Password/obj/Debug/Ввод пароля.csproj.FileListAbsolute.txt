@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Check_Password\Check_Password\obj\Debug\Ввод пароля.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Check_Password\Check_Password\obj\Debug\Check_Password.Check_password.resources
+C:\Users\User\Desktop\Check_Password\Check_Password\obj\Debug\Check_Password.Properties.Resources.resources
+C:\Users\User\Desktop\Check_Password\Check_Password\obj\Debug\Ввод пароля.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Check_Password\Check_Password\obj\Debug\Ввод пароля.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Check_Password\Check_Password\bin\Debug\Ввод пароля.exe.config
+C:\Users\User\Desktop\Check_Password\Check_Password\bin\Debug\Ввод пароля.exe
+C:\Users\User\Desktop\Check_Password\Check_Password\bin\Debug\Ввод пароля.pdb
+C:\Users\User\Desktop\Check_Password\Check_Password\obj\Debug\Ввод пароля.exe
+C:\Users\User\Desktop\Check_Password\Check_Password\obj\Debug\Ввод пароля.pdb
